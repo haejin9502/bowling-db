@@ -71089,5 +71089,30 @@
     "isOverseas": false,
     "sourceUrl": "local-test",
     "crawledAt": "2026-05-27"
+  },
+  {
+    "id": "codex-auto-update-test-2026",
+    "brand": "Codex Test",
+    "brandKo": "??? ???",
+    "name": "Auto Update Test",
+    "nameKo": "?? ???? ???",
+    "releaseDate": "2026-05",
+    "coverstock": "Auto Reactive",
+    "coverType": "Hybrid Reactive",
+    "coreName": "Auto Core",
+    "coreType": "Symmetric",
+    "factoryFinish": "3000 Grit",
+    "specs": [
+      {
+        "weight": 15,
+        "rg": 2.51,
+        "diff": 0.047,
+        "mbDiff": null
+      }
+    ],
+    "isDiscontinued": false,
+    "isOverseas": false,
+    "sourceUrl": "local-test",
+    "crawledAt": "2026-05-27"
   }
 ]
