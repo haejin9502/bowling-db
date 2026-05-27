@@ -71033,5 +71033,30 @@
     "crawledAt": "2026-05-18",
     "brandKo": "비저너리",
     "nameKo": "해츨링"
+  },
+  {
+    "id": "codex-version-check-test-2026",
+    "brand": "Codex Test",
+    "brandKo": "??? ???",
+    "name": "Version Check Test",
+    "nameKo": "?? ?? ???",
+    "releaseDate": "2026-05",
+    "coverstock": "Version Reactive",
+    "coverType": "Pearl Reactive",
+    "coreName": "Version Core",
+    "coreType": "Symmetric",
+    "factoryFinish": "1500 Polish",
+    "specs": [
+      {
+        "weight": 15,
+        "rg": 2.5,
+        "diff": 0.05,
+        "mbDiff": null
+      }
+    ],
+    "isDiscontinued": false,
+    "isOverseas": false,
+    "sourceUrl": "codex-test",
+    "crawledAt": "2026-05-27"
   }
 ]
