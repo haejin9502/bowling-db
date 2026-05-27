@@ -1,6 +1,6 @@
 {
-  "dbVersion": 3,
-  "updatedAt": "2026-05-27-version-test-fixed",
-  "totalBalls": 1689,
+  "dbVersion": 1,
+  "updatedAt": "2026-05-18",
+  "totalBalls": 1688,
   "ballsUrl": "https://haejin9502.github.io/bowling-db/balls.json"
 }
