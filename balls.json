@@ -71064,5 +71064,30 @@
     "isOverseas": false,
     "sourceUrl": "local-test",
     "crawledAt": "2026-05-27"
+  },
+  {
+    "id": "codex-settings-update-test-2026",
+    "brand": "Codex Test",
+    "brandKo": "??? ???",
+    "name": "Settings Update Test",
+    "nameKo": "?? ???? ???",
+    "releaseDate": "2026-05",
+    "coverstock": "Settings Reactive",
+    "coverType": "Solid Reactive",
+    "coreName": "Settings Core",
+    "coreType": "Asymmetric",
+    "factoryFinish": "2000 Abralon",
+    "specs": [
+      {
+        "weight": 15,
+        "rg": 2.49,
+        "diff": 0.052,
+        "mbDiff": 0.015
+      }
+    ],
+    "isDiscontinued": false,
+    "isOverseas": false,
+    "sourceUrl": "local-test",
+    "crawledAt": "2026-05-27"
   }
 ]
